@@ -12,22 +12,19 @@ A modern expense tracking app built with SwiftUI and SwiftData.
 
 ## Screenshots
 
-> **Note:** Add your screenshots in the screenshots folder below
 
-### Home Screen
-<!-- ![Home Screen](screenshots/home.png) -->
-
-### Add Transaction
-<!-- ![Add Transaction](screenshots/add-transaction.png) -->
-
-### Budget View
-<!-- ![Budget View](screenshots/budget.png) -->
-
-### Spending Charts
-<!-- ![Spending Charts](screenshots/charts.png) -->
-
-### Transaction History
-<!-- ![Transaction History](screenshots/history.png) -->
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/895a0876-f097-4e08-9807-fdfa26cbfa04" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/28d55a95-6594-465e-adc7-1b3ba01afb73" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/7cd377bb-4b66-4390-8a0e-44dac56985cd" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/02f5c821-23b6-450d-8200-a49bbbeef04c" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/e5b96fc3-14d9-4d4d-a248-dc8c9980e729" width="250"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Requirements
 
