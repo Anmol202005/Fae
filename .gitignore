@@ -1,0 +1,43 @@
+# macOS
+#
+.DS_Store
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Xcode
+#
+build/
+*.xcworkspaces
+*.xcuserdata
+DerivedData/
+
+# Swift Package Manager
+#
+.Packages
+.build/
+Packages/
+
+# SwiftGen
+#
+Generated/
+
+# Bundle
+#
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Carthage
+#
+Carthage/Build/
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Sparkle
+#
+Sparkle/
